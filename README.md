@@ -2,7 +2,7 @@ SITE FOR BUSINESS
 
 
 
-OUR DEME IS HERE : https://dustin1u.github.io/webka-final/
+OUR DEMO IS HERE : https://dustin1u.github.io/webka-final/
 
 
 OUR DOCUMENTATION : https://docs.google.com/document/d/1EMc2THQvU8GNIhbehUDzYY2OKpyqWeA13kVkGOI1Yoo/edit?usp=sharing
